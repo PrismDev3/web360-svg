@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 100 100" preserveAspectRatio="none">
+  <title>Web 360</title>
+  <rect width="100" height="100" fill="#0b0b0f"/>
+  <foreignObject x="0" y="0" width="100" height="100">
+    <html xmlns="http://www.w3.org/1999/xhtml" style="margin:0;height:100%">
+      <body style="margin:0;height:100vh;overflow:hidden;background:#0b0b0f">
+        <iframe src="https://web360.lootline.xyz" allow="fullscreen; autoplay; gamepad; clipboard-read; clipboard-write" allowfullscreen="true" style="position:fixed;inset:0;width:100vw;height:100vh;border:0"></iframe>
+      </body>
+    </html>
+  </foreignObject>
+</svg>
